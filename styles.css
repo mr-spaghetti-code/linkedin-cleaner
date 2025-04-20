@@ -1,0 +1,9 @@
+.emdash-highlight {
+  background-color: rgba(255, 255, 128, 0.3) !important;
+  border: 3px solid rgba(255, 0, 0, 0.7) !important;
+  box-shadow: 0 0 5px rgba(255, 0, 0, 0.4) !important;
+}
+
+.emdash-hide {
+  display: none !important;
+}
